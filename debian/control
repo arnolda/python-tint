@@ -1,0 +1,17 @@
+Source: tint
+Maintainer: Christian Schramm <csch@solute.de>
+Section: python
+Priority: optional
+Build-Depends: python-dev (>= 2.6), debhelper(>= 8), build-essential, python-setuptools-git
+Standards-Version: 3.9.1
+
+
+
+Package: python-tint
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Friendly Color Normalization
+
+
+
+
