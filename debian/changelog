@@ -1,3 +1,10 @@
+tint (0.4.1) unstable; urgency=low
+
+  [ Christian Schramm ]
+  * packaging: Change debian source format to 'native'
+
+ -- Christian Schramm <csch@solute.de>  Mon, 16 Mar 2015 10:21:54 -0000
+
 tint (0.4-2) unstable; urgency=low
 
   [ Christian Schramm ]
