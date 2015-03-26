@@ -12,7 +12,7 @@ if not on_rtd:
         "python-Levenshtein",
         # Remove this if colormath bug #51 is resolved
         "networkx",
-        "sphinx>=1.3b2",
+        "sphinx>=1.3",
     ]
 else:
     install_requires = [
