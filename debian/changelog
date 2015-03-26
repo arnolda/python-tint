@@ -1,3 +1,11 @@
+tint (0.4.2) unstable; urgency=low
+
+  [ Axel Arnold ]
+  * debian: Added dependency on libicu52
+  * Added Exception if hex code string doesn't have the right length
+
+ -- Axel Arnold <axa@solute.de>  Thu, 26 Mar 2015 15:16:00 -0000
+
 tint (0.4.1) unstable; urgency=low
 
   [ Christian Schramm ]
